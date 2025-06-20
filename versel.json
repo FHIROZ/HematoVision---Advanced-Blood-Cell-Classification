@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/"
+      "source": "/predict",
+      "destination": "https://your-render-app.onrender.com/predict"
     }
   ]
 }
